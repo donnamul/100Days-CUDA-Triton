@@ -1,0 +1,13 @@
+# executables
+*.out
+*.exe
+
+# build artifacts
+*.o
+*.obj
+*.ptx
+*.cubin
+*.fatbin
+
+# build directory
+build/
